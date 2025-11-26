@@ -6,14 +6,13 @@
 ---
 
 ## 📁 目录结构
-D:\Quant\ZeroPhase
+D:\Quant\ProjectLab\projects\2025-11-07_发呆日
 │
-├── idle_picker.py # 主程序（Python 脚本）
-├── idle_pool.md # 灵感清单（Markdown/CSV）
-├── logs\ # 抽取记录保存目录
-│ └── idle_pick_log.csv
-└── README.md # 使用说明
-
+├── idle_picker.py       # 主程序（Python 脚本）
+├── idle_pool.md         # 灵感清单（Markdown / CSV 混合格式均可）
+├── logs\                # 抽取记录保存目录
+│   └── idle_pick_log.csv
+└── README.md            # 使用说明
 ---
 
 ## ⚙️ 使用方法
