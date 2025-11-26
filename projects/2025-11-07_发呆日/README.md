@@ -5,7 +5,9 @@
 
 ---
 
-## 📁 目录结构
+## 📁 目录结构（D:\Quant\ProjectLab\projects\2025-11-07_发呆日）
+
+```plaintext
 D:\Quant\ProjectLab\projects\2025-11-07_发呆日
 │
 ├── idle_picker.py       # 主程序（Python 脚本）
@@ -13,7 +15,7 @@ D:\Quant\ProjectLab\projects\2025-11-07_发呆日
 ├── logs\                # 抽取记录保存目录
 │   └── idle_pick_log.csv
 └── README.md            # 使用说明
----
+```
 
 ## ⚙️ 使用方法
 
