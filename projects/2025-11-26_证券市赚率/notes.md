@@ -4,6 +4,14 @@
 - 市赚率是DCF模型的毛估估版
 - 适用场景：市赚率只在“高 ROE + 稳定分红 + 行业结构可预期”的公司上有效
 - 量化指标：
-  - 股息率越高越好>5%
-  - ROE越大越好>10%
-  - PR越小越小<1%
+  - 股息率越高越好 > **5%**
+  - ROE越大越好 > **10%**
+  - PR越小越小 < **1**
+
+### 2025-12-02 市赚率图示
+
+![1](D:\Quant\ProjectLab\projects\2025-11-26_证券市赚率\notes.assets\1.png)
+
+![2](D:\Quant\ProjectLab\projects\2025-11-26_证券市赚率\notes.assets\2.png)
+
+![194503d1e98c35d33fe7d0d1.png!raw](D:\Quant\ProjectLab\projects\2025-11-26_证券市赚率\notes.assets\194503d1e98c35d33fe7d0d1.png!raw.jpg)
